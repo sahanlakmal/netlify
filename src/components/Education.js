@@ -47,7 +47,7 @@ const Education = () => {
                     <Details
                         date="2023"
                         name="University of the West of England | Bristol"
-                        degree="BMSc Information Technology"
+                        degree="MSc Information Technology"
                     />
                     <Details
                         date="2019"
