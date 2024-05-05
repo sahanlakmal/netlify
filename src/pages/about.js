@@ -63,7 +63,7 @@ const about = () => {
                             </p>
 
                             <p className='font-medium dark:text-light' >
-                                When I describe about my current situation, I completed my {`Master's`} degree in Information Technology with merit in November 2023 at UWE Bristol. Currently, I work as a Consultant QA at W3Data Pvt Ltd, handling remote responsibilities.
+                                When I describe about my current situation, I completed my {`Master's`} degree in Information Technology with merit in November 2023 at UWE Bristol. Currently, I am working as a Consultant QA at W3Data Pvt Ltd, handling remote responsibilities.
                                 I am actively seeking a QA engineer position in the United Kingdom and I am open to relocate.
                             </p>
 
